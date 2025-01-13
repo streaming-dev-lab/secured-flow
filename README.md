@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="">
     <img src="logos/securedflow-nobg.png" alt="Logo" width="300" height="100">
   </a>
   <p align="center">
